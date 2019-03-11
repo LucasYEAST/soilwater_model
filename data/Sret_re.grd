@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2019-03-08 03:13:02
+[georeference]
+nrows=251
+ncols=251
+xmin=-112.251
+ymin=35.749
+xmax=-111.749
+ymax=36.251
+projection=NA
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=40.2866052189628
+maxvalue=100
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=Curvenr100

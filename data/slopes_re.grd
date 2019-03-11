@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2019-03-09 13:10:49
+[georeference]
+nrows=239
+ncols=240
+xmin=-112.247000000004
+ymin=35.7489999999993
+xmax=-111.767000000004
+ymax=36.2269999999993
+projection=NA
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=1.82030411245422
+maxvalue=216.826898677394
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=Slope_tif21
